@@ -4804,12 +4804,12 @@ dongs
 intromusic
 vol
 fadercreator
-Long ago^1, two races&ruled over Earth^1:&ajkskfl;aksS and MONSTERS^5. \E1 ^1 %
-One day^1, war broke&out between the two&races^5. \E0 ^1 %
-After a long battle^1,&the ajkskfl;akss were&victorious^5. \E1 ^1 %
-They sealed the monsters&underground with a magic&spell^4. \E0 ^1 %
+Long ago^1, there was&music for a webcomic^1&called HOMESTUCK^5. \E1 ^1 %
+One day^1, war broke&out between the fans^1&and the official music team^5. \E0 ^1 %
+After a long battle^1,&the official team&was victorious^5. \E1 ^1 %
+They sealed the fans&underground with a magic&spell^4. \E0 ^1 %
 Many years later^2.^2.^4.\E1 ^1%
-      MT. EBOTT&         201X^9 \E0 %
+      MT. EBOTTOCKS&         201X^9 \E0 %
 Legends say that those&who climb the mountain&never return^5.^3 \E1 %
  \E1 %
  ^9 ^5 \E0 %
